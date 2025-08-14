@@ -1,0 +1,11 @@
+bundle:
+  name: Facilities
+  icon: 🏢
+  description: Equipe de Facilities da Ness - segurança física, controle de acesso e proteção de ativos.
+agents:
+  - bmad-orchestrator
+  - analista-seguranca-fisica
+  - analista-controle-acesso-fisico
+  - analista-riscos-ativos
+workflows:
+  - operational-standard.yaml

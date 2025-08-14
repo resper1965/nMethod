@@ -1,0 +1,1 @@
+stages: [deteccao, analise, contencao, erradicacao, recuperacao]

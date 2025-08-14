@@ -1,0 +1,15 @@
+bundle:
+  name: trustness.
+  icon: 🏛️
+  description: Equipe de Assessment e Compliance da Ness - auditoria, governança e privacidade.
+agents:
+  - bmad-orchestrator
+  - consultor-assessment-seguranca
+  - especialista-standards-cert
+  - auditor-seguranca
+  - especialista-governanca-seguranca
+  - especialista-privacidade-dados
+workflows:
+  - security-assessment.yaml
+  - privacy-implementation.yaml
+  - governance-implementation.yaml

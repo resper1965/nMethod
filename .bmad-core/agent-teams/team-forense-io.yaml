@@ -1,0 +1,14 @@
+bundle:
+  name: forense.io
+  icon: 🧪
+  description: Equipe de Forense Digital da Ness - investigação, análise e inteligência cibernética.
+agents:
+  - bmad-orchestrator
+  - perito-forense-digital
+  - analista-investigacao-empresarial
+  - especialista-malware-reversa
+  - analista-inteligencia-cibernetica
+  - gestor-casos-forenses
+workflows:
+  - forensic-chain-of-custody.yaml
+  - forensic-case-lifecycle.yaml

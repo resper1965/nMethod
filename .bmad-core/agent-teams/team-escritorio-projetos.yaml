@@ -1,0 +1,14 @@
+bundle:
+  name: Escritório de Projetos
+  icon: 📋
+  description: Equipe de Gestão de Projetos da Ness - PM, PO, BA e Scrum Master.
+agents:
+  - bmad-orchestrator
+  - gerente-projetos-pm
+  - product-owner-po
+  - analista-negocios-ba
+  - scrum-master-sm
+workflows:
+  - greenfield-fullstack.yaml
+  - brownfield-fullstack.yaml
+  - operational-standard.yaml

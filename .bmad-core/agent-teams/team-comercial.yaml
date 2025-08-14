@@ -1,0 +1,13 @@
+bundle:
+  name: Comercial
+  icon: 💼
+  description: Equipe Comercial da Ness - vendas, marketing e sucesso do cliente.
+agents:
+  - bmad-orchestrator
+  - analista-pre-vendas-sdr
+  - executivo-vendas-closer
+  - gerente-sucesso-cliente-csm
+  - analista-marketing-digital
+  - analista-inteligencia-mercado
+workflows:
+  - operational-standard.yaml

@@ -1,0 +1,15 @@
+bundle:
+  name: Backoffice
+  icon: 📊
+  description: Equipe Administrativa da Ness - controladoria, RH, financeiro e governança.
+agents:
+  - bmad-orchestrator
+  - analista-controladoria
+  - analista-compliance-adm
+  - analista-rh-rs
+  - analista-rh-fb
+  - analista-fpa
+  - analista-tesouraria-contas
+  - analista-governanca-organizacional
+workflows:
+  - operational-standard.yaml

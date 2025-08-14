@@ -1,0 +1,13 @@
+bundle:
+  name: N AutoOps
+  icon: ⚙️
+  description: Equipe de Automação e Orquestração da Ness - RPA, integrações e agentes de IA.
+agents:
+  - bmad-orchestrator
+  - analista-automacao-processos
+  - especialista-integracao-sistemas
+  - desenvolvedor-agentes-ia
+  - engenheiro-observabilidade-orquestracao
+workflows:
+  - automation-lifecycle.yaml
+  - operational-standard.yaml

@@ -1,0 +1,12 @@
+bundle:
+  name: N InfraOps
+  icon: 🖥️
+  description: Equipe de Infraestrutura e Operações da Ness - redes, identidade e suporte técnico.
+agents:
+  - bmad-orchestrator
+  - tecnico-suporte-google-workspace
+  - tecnico-suporte-microsoft-365
+  - analista-redes-infra
+  - analista-identidade-ad
+workflows:
+  - operational-standard.yaml

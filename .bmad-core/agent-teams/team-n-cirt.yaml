@@ -1,0 +1,15 @@
+bundle:
+  name: N CIRT
+  icon: 🚨
+  description: Equipe de Resposta a Incidentes da Ness - coordenação, análise e comunicação de crise.
+agents:
+  - bmad-orchestrator
+  - coordenador-incidentes
+  - analista-incidentes
+  - perito-forense-digital
+  - analista-vulnerabilidades-pos
+  - especialista-comunicacao-crise
+workflows:
+  - incident-intake.yaml
+  - incident-response.yaml
+  - post-incident-review.yaml

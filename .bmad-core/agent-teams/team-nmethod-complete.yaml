@@ -1,0 +1,36 @@
+bundle:
+  name: nMethod Complete
+  icon: 🚀
+  description: Equipe completa do nMethod da Ness - todas as verticais e especialidades integradas.
+agents:
+  - bmad-orchestrator
+  - bmad-master
+  # Operacionais
+  - analista-soc
+  - especialista-secops-controles
+  - coordenador-incidentes
+  - arquiteto-sistemas
+  - analista-automacao-processos
+  # Assessment e Compliance
+  - consultor-assessment-seguranca
+  - especialista-privacidade-dados
+  # Forense
+  - perito-forense-digital
+  - analista-inteligencia-cibernetica
+  # Desenvolvimento
+  - desenvolvedor-fullstack
+  - especialista-ux
+  - analista-qa
+  # Gestão
+  - gerente-projetos-pm
+  - product-owner-po
+  - analista-negocios-ba
+workflows:
+  - greenfield-fullstack.yaml
+  - brownfield-fullstack.yaml
+  - incident-response.yaml
+  - vulnerability-mgmt.yaml
+  - security-assessment.yaml
+  - forensic-chain-of-custody.yaml
+  - automation-lifecycle.yaml
+  - operational-standard.yaml

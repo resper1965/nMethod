@@ -1,0 +1,16 @@
+bundle:
+  name: N DevArch
+  icon: 🏗️
+  description: Equipe de Desenvolvimento e Arquitetura da Ness - design, desenvolvimento e qualidade.
+agents:
+  - bmad-orchestrator
+  - arquiteto-sistemas
+  - especialista-ux
+  - desenvolvedor-fullstack
+  - desenvolvedor-backend
+  - desenvolvedor-frontend
+  - analista-qa
+workflows:
+  - greenfield-fullstack.yaml
+  - brownfield-fullstack.yaml
+  - operational-standard.yaml

@@ -1,0 +1,12 @@
+bundle:
+  name: Branding
+  icon: 🎨
+  description: Equipe de Branding da Ness - identidade visual, comunicação e produção audiovisual.
+agents:
+  - bmad-orchestrator
+  - designer-identidade-visual
+  - especialista-comunicacao-visual
+  - gestor-marca
+  - produtor-audiovisual
+workflows:
+  - operational-standard.yaml

@@ -1,0 +1,10 @@
+bundle:
+  name: Jurídico
+  icon: ⚖️
+  description: Equipe Jurídica da Ness - contratos e aconselhamento legal.
+agents:
+  - bmad-orchestrator
+  - advogado-contratos
+  - consultor-juridico
+workflows:
+  - operational-standard.yaml

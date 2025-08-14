@@ -1,0 +1,16 @@
+bundle:
+  name: N SecOps
+  icon: 🛡️
+  description: Equipe de Segurança Operacional da Ness - monitoramento, controles e resposta a incidentes.
+agents:
+  - bmad-orchestrator
+  - analista-soc
+  - analista-siem-edr-mdr-av
+  - analista-seguranca-redes
+  - especialista-secops-controles
+  - analista-vulnerabilidades
+  - especialista-compliance-seg-priv
+workflows:
+  - incident-response.yaml
+  - vulnerability-mgmt.yaml
+  - operational-standard.yaml

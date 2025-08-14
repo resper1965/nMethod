@@ -1,0 +1,1 @@
+stages: [inventario-dados, bases-legais, controles, treinamento, auditoria]
